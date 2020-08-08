@@ -1,0 +1,6 @@
+cd путь папки - меняет папку
+cd .. - переходит на каталог выше
+git init создает в папке гит
+dir - показывает в папке все вложенные папки
+git config --global user.name "John Doe"
+git config --global user.email johndoe@mail.ru
